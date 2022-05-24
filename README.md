@@ -1,2 +1,2 @@
 # Super-Cool-LCD
-super cool lcd arduino uno project with 2 sensor, 1 rgb led and damn cool game
+Arduino Uno Joystick Controlled Sensor and LCD. Control LCD screen with joystick and rechange color foto and voice sensors led color.
